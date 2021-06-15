@@ -1,0 +1,19 @@
+{
+    "name": "devco/google-distance-matrix-api",
+    "description": "Google distance matrix api",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Munyaradzi Ranga",
+            "email": "munya@devco.co.zw"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Devco\\GoogleDistanceMatrix": "src/"
+        }
+    },
+    "require": {}
+}
