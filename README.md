@@ -15,7 +15,7 @@ To install devco/google-distance-matrix-api add this configuration to your proje
 ...
 "require": {
     "php": "^7.3|^8.0",
-    "devco/google-distance-matrix-api": "^1.0.0"
+    "devco/google-distance-matrix-api": "^1.0.1"
 }
 ...
 "repositories": [
@@ -28,5 +28,5 @@ To install devco/google-distance-matrix-api add this configuration to your proje
 ```
 
 ```sh
-$ composer require finalbytes/google-distance-matrix-api
+$ composer update
 ```
