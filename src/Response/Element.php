@@ -1,8 +1,8 @@
 <?php
 
-namespace Devco\GoogleDistanceMatrix\Response;
+namespace DevcoApp\GoogleDistanceMatrix\Response;
 
-use Devco\GoogleDistanceMatrix\Exception\Exception;
+use DevcoApp\GoogleDistanceMatrix\Exception\Exception;
 
 class Element
 {

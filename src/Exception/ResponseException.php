@@ -1,6 +1,6 @@
 <?php
 
-namespace Devco\GoogleDistanceMatrix\Exception;
+namespace DevcoApp\GoogleDistanceMatrix\Exception;
 
 class ResponseException extends Exception
 {

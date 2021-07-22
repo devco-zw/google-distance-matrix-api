@@ -1,5 +1,5 @@
 {
-    "name": "devco/google-distance-matrix-api",
+    "name": "devco-app/google-distance-matrix-api",
     "description": "Google distance matrix api",
     "type": "project",
     "license": "MIT",
@@ -12,7 +12,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Devco\\GoogleDistanceMatrix\\": "src/"
+            "DevcoApp\\GoogleDistanceMatrix\\": "src/"
         }
     },
     "require": {}

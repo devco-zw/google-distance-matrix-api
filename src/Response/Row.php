@@ -1,6 +1,6 @@
 <?php
 
-namespace Devco\GoogleDistanceMatrix\Response;
+namespace DevcoApp\GoogleDistanceMatrix\Response;
 
 class Row
 {

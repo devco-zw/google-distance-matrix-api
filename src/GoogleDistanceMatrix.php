@@ -1,9 +1,9 @@
 <?php
 
-namespace Devco\GoogleDistanceMatrix;
+namespace DevcoApp\GoogleDistanceMatrix;
 
 use GuzzleHttp\Client;
-use Devco\GoogleDistanceMatrix\Response\GoogleDistanceMatrixResponse;
+use DevcoApp\GoogleDistanceMatrix\Response\GoogleDistanceMatrixResponse;
 
 class GoogleDistanceMatrix
 {
