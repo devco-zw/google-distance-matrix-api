@@ -1,12 +1,16 @@
 {
     "name": "devco-app/google-distance-matrix-api",
+    "type": "library",
     "description": "Google distance matrix api",
-    "type": "vcs",
+    "keywords": ["Google","distance matrix api", "distance calculator"],
+    "homepage": "https://github.com/devco-zw/google-distance-matrix-api",
     "license": "MIT",
     "authors": [
         {
             "name": "Munyaradzi Ranga",
-            "email": "munya@devco.co.zw"
+            "email": "munya@devco.co.zw",
+            "homepage": "https://www.devco.co.zw",
+            "role": "Developer"
         }
     ],
     "minimum-stability": "dev",
@@ -15,5 +19,7 @@
             "DevcoApp\\GoogleDistanceMatrix\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "php": ">=7.1"
+    }
 }
