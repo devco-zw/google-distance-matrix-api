@@ -1,7 +1,7 @@
 {
     "name": "devco-app/google-distance-matrix-api",
     "description": "Google distance matrix api",
-    "type": "project",
+    "type": "vcs",
     "license": "MIT",
     "authors": [
         {
